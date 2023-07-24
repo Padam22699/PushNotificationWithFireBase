@@ -7,14 +7,22 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:67031875593:android:05b40b8f228d712fbef8d8",
+        "mobilesdk_app_id": "1:67031875593:android:e4928c673697a80dbef8d8",
         "android_client_info": {
-          "package_name": "com.practice"
+          "package_name": "com.FacebookLoginPractice"
         }
       },
       "oauth_client": [
         {
-          "client_id": "67031875593-bk56n1d40uui2meemltvlae9hvi3kke6.apps.googleusercontent.com",
+          "client_id": "67031875593-0sk61ld3l3u8v66unvhl5jhit0upmpmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.FacebookLoginPractice",
+            "certificate_hash": "c79573d9e5f92546b8278bf0ec92095fbc564b8b"
+          }
+        },
+        {
+          "client_id": "67031875593-sp5kqfpba7gh4mjaprt5scq06tb82hik.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -27,7 +35,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "67031875593-bk56n1d40uui2meemltvlae9hvi3kke6.apps.googleusercontent.com",
+              "client_id": "67031875593-sp5kqfpba7gh4mjaprt5scq06tb82hik.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

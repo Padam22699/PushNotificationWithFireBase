@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Practice</string>
+
+    <string name="facebook_app_id">226462579864671</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">d5f9670ed4cb8017441cd6e581841307</string>
+
+
 </resources>

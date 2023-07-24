@@ -1,4 +1,4 @@
-package com.practice;
+package com.FacebookLoginPractice;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
