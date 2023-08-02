@@ -1,10 +1,10 @@
-import {StyleSheet, Text, View} from 'react-native';
+`import {StyleSheet, Text, View} from 'react-native';
 import React from 'react';
 import {LoginButton, AccessToken, Profile} from 'react-native-fbsdk-next';
 const FBlogin = () => {
   return (
     <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
-      <LoginButton
+      ; <LoginButton
         onLoginFinished={(error, result) => {
           if (error) {
             console.log('login has error: ' + result.error);
@@ -32,8 +32,9 @@ const FBlogin = () => {
       />
     </View>
   );
-};
+}; 
 
 export default FBlogin;
 
 const styles = StyleSheet.create({});
+`
